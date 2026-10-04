@@ -43,8 +43,10 @@ Tavoitteena on ollut pitää sovellus **pienenä, selkeänä ja helposti ymmärr
 
 ## 📄 License
 
-**Apache License 2.0** — free to use, modify, copy, and distribute, including for commercial purposes.
+[LICENSE](./LICENSE)
 
-This project is licensed under the **Apache License, Version 2.0**.
+CC0 1.0 Universal — free to use, modify, copy, and distribute, including for commercial purposes.
 
-[Apache License 2.0 — Official License](https://www.apache.org/licenses/LICENSE-2.0)
+This project is released under the CC0 1.0 Universal public domain dedication.
+
+CC0 1.0 Universal — Official License
